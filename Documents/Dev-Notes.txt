@@ -46,6 +46,16 @@ Packages:
   * Services -> Content Management -> Cloud Code
   * com.unity.services.cloudcode
 
-==================================
+---------------------------------
+After adding the Cloud Code services, there is a new Cloud Code section in Edit -> Preferences.
 
+Since we are using C#, we are interested in the ".NET development environment"
+* .NET Path should be:  dotnet
+* This is the default, but if you wanted you could change this to the full path:
+  * C:\Program Files\dotnet\dotnet.exe
+
+C:\Users\Richard>where dotnet
+C:\Program Files\dotnet\dotnet.exe
+
+==================================
 
