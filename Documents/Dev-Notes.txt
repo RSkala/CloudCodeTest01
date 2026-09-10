@@ -7,4 +7,45 @@ git-amend
 Game-Changing Serverless Functions using Unity Cloud Code
 https://www.youtube.com/watch?v=LXSi3JBsy2c
 
+Related Links:
+Cloud Code:  https://docs.unity.com/en-us/cloud-code
+DotNet:      https://dotnet.microsoft.com/en-us/
+UGS:         https://docs.unity.com/en-us/services
+             https://unity.com/products/gaming-services/pricing
+
 ==================================
+Link to Unity Gaming Services:
+
+Edit -> Project Settings -> Services
+* Link or Check Unity Project ID here
+
+Can also use the Unity Hub to "Connect to Unity Cloud"
+
+==================================
+Installing Packages:
+* Deployment: Interface for deploying code to Unity Cloud
+* Cloud Code: Call CloudCode functions from inside the game
+
+Window -> Package Management -> Package Manager
+* Click + (plus) button in upper left corner
+* Select "Install Package by technical name"
+* Manually type in the Technical Name (e.g. com.x.x.x)
+  OR
+* Click Unity Registry
+* Find the desired package by name
+
+OR
+Window -> Package Management -> Services
+* This already contains the list of Unity services
+
+Packages:
+* Deployment
+  * Services -> DevOps -> Deployment
+  * com.unity.services.deployment
+* Cloud Code
+  * Services -> Content Management -> Cloud Code
+  * com.unity.services.cloudcode
+
+==================================
+
+
