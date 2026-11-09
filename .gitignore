@@ -84,4 +84,7 @@ crashlytics-build.properties
 ##ScoreAggregator/TestProject/obj
 #ScoreAggregator/*/bin/Debug
 #ScoreAggregator/*/bin/Release
+**/obj
+**/Project
+**/TestProject
 **/*.pubxml
