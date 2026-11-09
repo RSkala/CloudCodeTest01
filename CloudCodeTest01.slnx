@@ -40,6 +40,7 @@
   <Project Path="Unity.Services.Deployment.csproj" />
   <Project Path="Unity.Services.CloudCode.Authoring.Editor.csproj" />
   <Project Path="Unity.UnifiedRayTracing.Runtime.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
   <Project Path="Unity.VisualScripting.State.Editor.csproj" />
   <Project Path="Unity.Services.Deployment.Core.csproj" />
   <Project Path="unity-websocket-sharp.csproj" />
