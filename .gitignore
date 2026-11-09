@@ -77,3 +77,11 @@ crashlytics-build.properties
 
 # Mac files
 **/*.DS_Store
+
+# Cloud Code Reference Solution Files
+#ScoreAggregator/*/obj
+##ScoreAggregator/Project/obj
+##ScoreAggregator/TestProject/obj
+#ScoreAggregator/*/bin/Debug
+#ScoreAggregator/*/bin/Release
+**/*.pubxml
