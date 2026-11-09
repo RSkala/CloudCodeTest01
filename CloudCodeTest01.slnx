@@ -6,9 +6,9 @@
   <Project Path="Unity.PlasticSCM.Editor.csproj" />
   <Project Path="Unity.Services.CloudCode.csproj" />
   <Project Path="Unity.2D.Aseprite.Editor.csproj" />
-  <Project Path="Unity.Services.Authentication.PlayerAccounts.csproj" />
   <Project Path="Unity.Services.Core.Internal.csproj" />
   <Project Path="Unity.ShaderGraph.Editor.csproj" />
+  <Project Path="Unity.Services.Authentication.PlayerAccounts.csproj" />
   <Project Path="Unity.RenderPipelines.Core.Runtime.csproj" />
   <Project Path="Unity.Timeline.Editor.csproj" />
   <Project Path="Unity.RenderPipelines.Core.Editor.csproj" />
@@ -112,8 +112,10 @@
   <Project Path="Unity.InternalAPIEngineBridge.004.csproj" />
   <Project Path="Unity.Collections.Tests.CoreCLR.PublicJobPrivateGeneric.csproj" />
   <Project Path="Unity.InputSystem.DocCodeSamples.csproj" />
+  <Project Path="Sample_CloudCodeModulesHello.csproj" />
   <Project Path="Unity.RenderPipelines.Universal.Shaders.csproj" />
   <Project Path="Unity.InternalAPIEditorBridge.ShaderGraph.Editor.csproj" />
+  <Project Path="Sample_CloudCodeScriptsHello.csproj" />
   <Project Path="Unity.Services.Core.Networking.csproj" />
   <Project Path="Unity.2D.Welcome.csproj" />
   <Project Path="Unity.VisualScripting.DocCodeExamples.csproj" />
